@@ -4,7 +4,7 @@
 >
 >**who can make changes**
 >
->1. Read the code and see how it may impact you, and
+>1. Read the code and see how it may impact you
 >2. changes can be made by any software engineer
 >3. suggestions for future development are welcomed from all
 >4. changes will be by approval of **code owners*
